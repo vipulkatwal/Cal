@@ -1,6 +1,6 @@
 # ✨ Calendar.io | Calendar App
 
-![Calendar Preview](src\ScreenShot.png)
+![Calendar Preview](./src/ScreenShot.png)
 
 A stunning, feature-rich calendar application crafted with React, TypeScript, and Tailwind CSS. Experience seamless event management with an intuitive interface, smart notifications, and beautiful design.
 
