@@ -125,3 +125,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Tailwind CSS - Styling
 - Zustand - State Management
 - date-fns - Date Utilities
+
+
+---
+
+# 💻 Live Preview
+See this project live in action! Access the **Live Preview** of the application at [Calender.io](https://calender-io.vercel.app).
