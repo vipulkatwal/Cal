@@ -71,6 +71,10 @@ A stunning, feature-rich calendar application crafted with React, TypeScript, an
 - Node.js 16+
 - npm or yarn
 
+### 💻 Live Preview
+Project Live Link: [Calender.io](https://calender-io.vercel.app).
+
+
 ### Installation
 
 ```bash
@@ -125,9 +129,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Tailwind CSS - Styling
 - Zustand - State Management
 - date-fns - Date Utilities
-
-
----
-
-# 💻 Live Preview
-See this project live in action! Access the **Live Preview** of the application at [Calender.io](https://calender-io.vercel.app).
