@@ -1,5 +1,4 @@
 import React from 'react';
-import { X } from 'lucide-react';
 
 // Define the props interface for Modal
 interface ModalProps {
@@ -24,14 +23,6 @@ export const Modal = ({ isOpen, onClose, children }: ModalProps) => {
 
       {/* Modal container */}
       <div className="relative z-50 w-full max-w-lg bg-slate-900/95 backdrop-blur-sm rounded-xl shadow-xl p-6 transform transition-all duration-200 scale-100 border border-white/10">
-
-        {/* Close button */}
-        {/* Positioned at the top-right corner of the modal */}
-        <div className="absolute top-4 right-4">
-          <X className="text-white cursor-pointer" onClick={onClose} />  {/* X icon to close the modal */}
-        </div>
-
-        {/* Render the modal content passed as children */}
         {children}
       </div>
     </div>
