@@ -1,5 +1,5 @@
-import React from 'react';  // Import React
-import { X } from 'lucide-react';  // Import the X icon from Lucide for closing the modal
+import React from 'react';
+import { X } from 'lucide-react';
 
 // Define the props interface for Modal
 interface ModalProps {
