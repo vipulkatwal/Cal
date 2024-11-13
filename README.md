@@ -71,26 +71,9 @@ A stunning, feature-rich calendar application crafted with React, TypeScript, an
 - Node.js 16+
 - npm or yarn
 
-### 💻 Live Preview
-Project Live Link: [Calender.io](https://calender-io.vercel.app).
 
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/vipulkatwal/calendar.io
-
-# Navigate to project directory
-cd calendar.io
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# 📱 Usage Guide
+### 📱 Usage Guide
 
 ### Create an Event
 1. Click any date cell in the calendar
@@ -129,3 +112,22 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Tailwind CSS - Styling
 - Zustand - State Management
 - date-fns - Date Utilities
+
+### 💻 Live Preview
+Project Live Link: [Calender.io](https://calender-io.vercel.app).
+
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/vipulkatwal/calendar.io
+
+# Navigate to project directory
+cd calendar.io
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
