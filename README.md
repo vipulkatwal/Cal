@@ -75,10 +75,10 @@ A stunning, feature-rich calendar application crafted with React, TypeScript, an
 
 ```bash
 # Clone the repository
-git clone https://github.com/vipulkatwal/calendar
+git clone https://github.com/vipulkatwal/calendar.io
 
 # Navigate to project directory
-cd calendar
+cd calendar.io
 
 # Install dependencies
 npm install
